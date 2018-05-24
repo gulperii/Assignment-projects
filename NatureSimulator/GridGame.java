@@ -9,9 +9,6 @@ import java.util.Set;
 
 /**
  * Class representing a generic grid-based game.
- *
- * IMPORTANT: Please do not modify this class in any way,
- * it will be reset when grading your project.
  */
 public abstract class GridGame {
 
