@@ -5,9 +5,6 @@ import javax.swing.*;
 
 /**
  * The main application window.
- *
- * IMPORTANT: Please do not modify this class in any way,
- * it will be reset when grading your project.
  */
 public class ApplicationWindow {
 
