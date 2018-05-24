@@ -9,10 +9,7 @@ import java.util.List;
 
 /**
  * Class representing the information a creature has about its surroundings.
- * Automatically created and passed by the game to each creature at each timer tick.
- *
- * IMPORTANT: Please do not modify this class in any way,
- * it will be reset when grading your project.
+ * Automatically created and passed by the game to each creature at each timer tick
  */
 public class LocalInformation {
 
