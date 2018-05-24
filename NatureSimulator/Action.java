@@ -5,9 +5,6 @@ import game.Direction;
 
 /**
  * Class representing the possible actions for Nature Simulator game
- *
- * IMPORTANT: Please do not modify this class in any way,
- * it will be reset when grading your project.
  */
 public class Action {
 
