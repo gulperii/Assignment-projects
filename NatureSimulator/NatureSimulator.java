@@ -11,9 +11,6 @@ import java.util.List;
 
 /**
  * Class that implements the game logic for Nature Simulator.
- *
- * IMPORTANT: Please do not modify this class in any way,
- * it will be reset when grading your project.
  */
 public class NatureSimulator extends GridGame {
 
