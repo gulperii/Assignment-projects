@@ -5,9 +5,6 @@ import ui.GridPanel;
 
 /**
  * Interface that allows objects to be drawn on a grid panel
- *
- * IMPORTANT: Please do not modify this interface in any way,
- * it will be reset when grading your project.
  */
 public interface Drawable {
 
